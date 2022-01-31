@@ -56,8 +56,14 @@ h2{
     
 }
 .article1{
+ padding-top:0; 
 width:400px;
 
+}
+h4{
+    padding-top:0;
+   size:10px;
+    color:#800000; 
 }
 
 
@@ -88,6 +94,6 @@ width:400px;
         text-align: center;
         font-family:'Times New Roman', Times, serif;
         font-size:14px;
-        padding-top: 80px;
+        padding-top: 60px;
        
     }
